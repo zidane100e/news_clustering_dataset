@@ -4,6 +4,7 @@
 ## contents
 뉴스 본문 링크  
 check_train_test_same_v2.ipynb : contents 내 기사가 testset 에 있으면 제거  
+Unsupervised 학습만 하여 레이블 없음
 
 ## testset
 테스트 기사 링크와 라벨링
