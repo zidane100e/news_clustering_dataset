@@ -7,7 +7,7 @@ check_train_test_same_v2.ipynb : contents 내 기사가 testset 에 있으면 �
 Unsupervised 학습만 하여 레이블 없음
 
 ## testset
-테스트 기사 링크와 라벨링
+테스트 기사 링크와 제목 및 라벨링
 ### 데이터셋1
 데이터셋1 : 디렉토리 명으로 구분(finance, general, global, industry, stock)
 ### 데이터셋2
